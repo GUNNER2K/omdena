@@ -1,4 +1,4 @@
-# This repo contains the ipynb file for anomaly detection on plant village dataset . 
+#  anomaly detection on plant village dataset . 
 ### Anomaly detection .. what is it? :
 Anomaly detection is one of the most common use cases of machine learning. Finding and identifying outliers helps to prevent fraud, adversary attacks, and network intrusions that can compromise your company’s future.
 Generally speaking, an anomaly is something that differs from a norm: a deviation, an exception. In software engineering, by anomaly we understand a rare occurrence or event that doesn’t fit into the pattern, and, therefore, seems suspicious. Some examples are:
